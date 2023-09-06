@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GUI.iml" filepath="$PROJECT_DIR$/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ADC_Histogram_PyCharm/.idea/ADC_Histogram_PyCharm.iml" filepath="$PROJECT_DIR$/../../../ADC_Histogram_PyCharm/.idea/ADC_Histogram_PyCharm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CustomGUI.iml" filepath="$PROJECT_DIR$/.idea/CustomGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Formation-master/.idea/Formation-master.iml" filepath="$PROJECT_DIR$/../Formation-master/.idea/Formation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI/.idea/GUI.iml" filepath="$PROJECT_DIR$/../GUI/.idea/GUI.iml" />
     </modules>
   </component>
 </project>

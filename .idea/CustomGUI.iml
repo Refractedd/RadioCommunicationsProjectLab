@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ADC_Histogram_PyCharm" />
+    <orderEntry type="module" module-name="GUI" />
+    <orderEntry type="module" module-name="Formation-master" />
   </component>
 </module>
